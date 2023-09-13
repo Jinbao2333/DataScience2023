@@ -1,1 +1,2 @@
-print("Jiang Jiaqi 10225501447")
+print("Jiang Jiaqi")
+print("10225501447")

@@ -9,4 +9,4 @@ numbers.sort(reverse=True)
 
 print("Output: ")
 for num in numbers:
-    print(num)
+    print(num, end = " ")

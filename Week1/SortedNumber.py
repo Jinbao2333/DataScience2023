@@ -8,4 +8,4 @@ numbers.sort()
 
 print("Output: ")
 for num in numbers:
-    print(num)
+    print(num, end = " ")

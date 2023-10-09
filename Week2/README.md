@@ -46,7 +46,7 @@ print(f"正整数列为：{resultList2}")
 
 
 运行结果：
-
+![图片](https://github.com/Jinbao2333/DataScience2023/assets/138432032/a532e98c-4dae-4579-a0af-e82a8f361a9f)
 
 ---
 ## 2.
@@ -66,7 +66,7 @@ result = 2 ** 50
 print(f"2^50 = {result}")
 ```
 运行结果：
-
+![图片](https://github.com/Jinbao2333/DataScience2023/assets/138432032/6dc750f1-54db-4d2f-adb9-092e20cdbf07)
 
 ---
 ## 5.
@@ -86,6 +86,7 @@ for c in c_values:
     print(f"Square root of {c} ≈ {result:.10f}")
 ```
 运行结果：
+![图片](https://github.com/Jinbao2333/DataScience2023/assets/138432032/e1b200eb-5b22-4bbc-9e87-8a340ec6a2a2)
 
 ---
 ## 6.
@@ -110,6 +111,7 @@ result = newton_cbrt(c)
 print(f"Cube root of {c} ≈ {result:.10f}")
 ```
 运行结果：
+![图片](https://github.com/Jinbao2333/DataScience2023/assets/138432032/05d8c1b1-f2b3-40be-951d-b04a2fe0551f)
 
 ---
 ## 8.
@@ -160,6 +162,7 @@ print(f"Machin π: {machin_result:.10f}")
 print(f"Python math π: {math.pi:.10f}")
 ```
 运行结果：
+![图片](https://github.com/Jinbao2333/DataScience2023/assets/138432032/9da4a017-72cc-4870-943c-027821d3b287)
 
 ---
 ## 9.
@@ -200,5 +203,6 @@ if __name__ == '__main__':
 
 ```
 运行结果：
+![图片](https://github.com/Jinbao2333/DataScience2023/assets/138432032/eb5a6efc-9e9b-4554-aaab-01772e572fb0)
 
 ---
